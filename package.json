@@ -1,5 +1,15 @@
 {
-  "dependencies": {
-    "y": "^0.3.2"
-  }
+    "dependencies": {
+        "y": "^0.3.2"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "name": "st908",
+    "version": "1.0.0",
+    "main": "client.js",
+    "devDependencies": {},
+    "author": "",
+    "license": "ISC",
+    "description": ""
 }
